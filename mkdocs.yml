@@ -1,0 +1,7 @@
+site_name: Mkdocs Demo
+docs_dir: ./demo
+nav:
+  - Home: index.md
+  - demo.md
+  - About:
+    - index.md
